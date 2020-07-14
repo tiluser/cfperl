@@ -1,5 +1,5 @@
-Creole Forth for Python
------------------------
+Creole Forth for Perl
+---------------------
 
 Intro
 -----
